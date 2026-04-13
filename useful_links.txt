@@ -11,5 +11,5 @@ https://html-color.codes/green
 Colour codes used in this dashboard
 
 
-Dashboard title Background=#065F46
+Dashboards title Background=#065F46
 Header of tables and Background of slicer=#8FD986
